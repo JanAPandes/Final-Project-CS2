@@ -47,25 +47,8 @@ We have provided **2 starter ideas** for each dataset — you must design **at l
 
 ---
 
-## 🧠 Logic Plan  
-Choose **ONE** way to describe your program’s logic:  
-
-### Option 1: Pseudocode  
-Write your steps in plain English. Example:  
-Load JSON file
-Display menu of features
-If user chooses "1", compute average grade per student
-If user chooses "2", list all borrowed books
-Repeat until user exits program
-
-
-### Option 2: Flowchart  
-Attach or draw a flowchart showing how the program will work.  
-
----
-
 ## 📂 GitHub Repository Link  
 Paste your GitHub repository link here:  
-`https://github.com/username/project-proposal`  
+`https://github.com/JanAPandes/Final-Project-CS2`  
 
 ---
