@@ -36,12 +36,10 @@ We have provided **2 starter ideas** for each dataset — you must design **at l
 ## ⌨️ Planned Inputs and Outputs  
 
 - **Inputs**  
-  - What kind of data will the user provide (if any)?  
-  - Example: student ID, date range, product name  
+  - The user will provide data which is their grade.
 
 - **Outputs**  
-  - What kind of results will your program display?  
-  - Example: class averages, top products, weather summary  
+  - The output would be the general average, list of subjects in which the grade fits a certain criteria, list of students who have a substandard general average or worse, or list of students who qualified for a Director's List.
 
 ---
 
