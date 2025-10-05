@@ -6,10 +6,10 @@ Yearlong Programming Project on the Application of Python Coding and JSON Files 
 ---
 
 ## 🔍 Problem Statement  
-What real-world problem does your project want to solve?  
-- Describe the issue or need you identified.  
-- Explain why this problem is relevant and worth solving.  
-- Relate the problem to the dataset you selected (e.g., hospital, ecommerce, students, etc.).  
+In many schools, teachers manually record, compute, and analyze student grades, which can be time-consuming and be prone to errors. This makes it difficult to quickly identify students who need help, generate class statistics, or give accurate feedback.
+The process of calculating student grades is often done manually, which can lead to errors in computation, loss of data, and difficulty in tracking student performance. There is also lack of tools to analyze the overall class performance and identify struggling students.
+This problem is worth solving because accurate and efficient grade management is essential for both the teachers and students. It allows the teachers to focus more on teaching and providing help to students who need it.
+The problem directly affects how student grades are calculated, leading to errors and mistakes that could lead to inaccurate results that incorrectly reflects on a student's true performance.
 
 ---
 
