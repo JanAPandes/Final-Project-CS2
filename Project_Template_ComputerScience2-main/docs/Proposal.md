@@ -1,7 +1,7 @@
-# 📌 Project Proposal, Group 1 8-Dahlia
+# 📌 Project Proposal, Group 1 8-Dahlia (First Draft)
 
 ## 📝 Project Title  
-*Enter your initial project title here.*  
+Yearlong Programming Project on the Application of Python Coding and JSON Files on Student Grades
 
 ---
 
@@ -27,9 +27,9 @@ We have provided **2 starter ideas** for each dataset — you must design **at l
 
 - Feature 1: Compute the general average of one student.  
 - Feature 2: List the subjects where the student scored 2.5 or better.
-- Feature 3: *(Your own idea)*  
-- Feature 4: *(Your own idea)*  
-- Feature 5: *(Your own idea)*  
+- Feature 3: List the subjects where the student scored 2.75 or worse.  
+- Feature 4: List the students who have a substandard general average or worse.
+- Feature 5: List the students who have qualified for a Director's List in their general average.
 
 *(You may add more features if you like.)*  
 
