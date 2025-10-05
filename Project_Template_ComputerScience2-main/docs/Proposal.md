@@ -14,10 +14,8 @@ What real-world problem does your project want to solve?
 ---
 
 ## 🎯 Project Objectives  
-Write at least **2–3 clear objectives** your project aims to achieve. Example:  
-- Objective 1: To analyze and summarize data from the chosen JSON dataset.  
-- Objective 2: To help users gain meaningful insights (e.g., averages, trends, patterns).  
-- Objective 3: To practice JSON handling and Python programming concepts.  
+- Objective 1: To analyze and summarize the data from the 'Student Grades' JSON Files.  
+- Objective 2: To help users know different sets of data through the multi-branch selection structure.
 
 ---
 
