@@ -25,8 +25,8 @@ Write at least **2–3 clear objectives** your project aims to achieve. Example:
 Your program must have **at least 5 features (minimum)**.  
 We have provided **2 starter ideas** for each dataset — you must design **at least 3 additional features**.  
 
-- Feature 1: *(Starter idea)*  
-- Feature 2: *(Starter idea)*  
+- Feature 1: Compute the general average of one student.  
+- Feature 2: List the subjects where the student scored 2.5 or better.
 - Feature 3: *(Your own idea)*  
 - Feature 4: *(Your own idea)*  
 - Feature 5: *(Your own idea)*  
