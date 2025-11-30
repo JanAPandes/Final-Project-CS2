@@ -43,14 +43,38 @@ The problem directly affects how student grades are calculated, leading to error
 Describe your program’s logic:  
 
 ### Pseudocode  
-Write your steps in plain English. Example:  
-Load JSON file
-Display menu of features
-If user chooses "1", compute average grade per student
-If user chooses "2", list all borrowed books
-Repeat until user exits program
-
-
+START
+  LOAD JSON File
+  INPUT x
+  MATCH X
+  CASE 1
+    INPUT id
+    FIND DICTIONARY
+    DISPLAY DICTIONARY KEYS id, name, section
+    CALCULATE AND DISPLAY AVERAGE OF subjects IN id
+  CASE 2
+    INPUT id
+    FIND DICTIONARY
+    DISPLAY DICTIONARY KEYS id, name, section
+    DISPLAY ELEMENTS IN DICTIONARY KEY subjects <= 2.5
+  CASE 3
+    INPUT id
+    FIND DICTIONARY
+    DISPLAY DICTIONARY KEYS id, name, section
+    DISPLAY ELEMENTS IN DICTIONARY KEY subjects >= 2.75
+  CASE 4
+    CALCULATE AVERAGE OF subjects IN ALL DICTIONARIES
+    DISPLAY ALL DICTIONARY KEYS students IF
+      ALL DICTIONARY KEYS subjects AVERAGE >= 2.75
+  CASE 5
+    CALCULATE AVERAGE OF subjects IN ALL DICTIONARIES
+    DISPLAY ALL DICTIONARY KEYS students IF
+      ALL DICTIONARY KEYS subjects AVERAGE <= 1.5
+  CASE _
+    DISPLAY "INVALID"
+  REPEAT UNTIL USER EXITS PROGRAM
+END
+  
 ### Flowchart  
 Attach or draw a flowchart showing how the program will work.  
 
