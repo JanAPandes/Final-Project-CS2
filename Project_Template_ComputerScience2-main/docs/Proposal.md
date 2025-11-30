@@ -1,7 +1,7 @@
-# 📌 Project Proposal, Group 1 8-Dahlia (First Draft)
+# 📌 Project Proposal, Group 1 8-Dahlia (Final Draft)
 
 ## 📝 Project Title  
-Yearlong Programming Project on the Application of Python Coding and JSON Files on Student Grades
+The Student Manager: A Datalist of Student Grades
 
 ---
 
@@ -36,6 +36,23 @@ The problem directly affects how student grades are calculated, leading to error
 
 - **Outputs**  
   - The output would be the general average, list of subjects in which the grade fits a certain criteria, list of students who have a substandard general average or worse, or list of students who qualified for a Director's List. This highly depends though on what option the user chose.
+
+---
+
+## 🧠 Logic Plan
+Describe your program’s logic:  
+
+### Pseudocode  
+Write your steps in plain English. Example:  
+Load JSON file
+Display menu of features
+If user chooses "1", compute average grade per student
+If user chooses "2", list all borrowed books
+Repeat until user exits program
+
+
+### Flowchart  
+Attach or draw a flowchart showing how the program will work.  
 
 ---
 
