@@ -49,7 +49,7 @@ Describe your program’s logic:
   
       INPUT x
   
-      MATCH X
+      MATCH x
   
       CASE 1
   
