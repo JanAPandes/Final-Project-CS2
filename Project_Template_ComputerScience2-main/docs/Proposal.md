@@ -44,35 +44,65 @@ Describe your program’s logic:
 
 ### Pseudocode  
 START
+
   LOAD JSON File
+  
   INPUT x
+  
   MATCH X
+  
   CASE 1
+  
     INPUT id
+    
     FIND DICTIONARY
+    
     DISPLAY DICTIONARY KEYS id, name, section
+    
     CALCULATE AND DISPLAY AVERAGE OF subjects IN id
+    
   CASE 2
+  
     INPUT id
+    
     FIND DICTIONARY
+    
     DISPLAY DICTIONARY KEYS id, name, section
+    
     DISPLAY ELEMENTS IN DICTIONARY KEY subjects <= 2.5
+    
   CASE 3
+  
     INPUT id
+    
     FIND DICTIONARY
+    
     DISPLAY DICTIONARY KEYS id, name, section
+    
     DISPLAY ELEMENTS IN DICTIONARY KEY subjects >= 2.75
+    
   CASE 4
+  
     CALCULATE AVERAGE OF subjects IN ALL DICTIONARIES
+    
     DISPLAY ALL DICTIONARY KEYS students IF
+    
       ALL DICTIONARY KEYS subjects AVERAGE >= 2.75
+      
   CASE 5
+  
     CALCULATE AVERAGE OF subjects IN ALL DICTIONARIES
+    
     DISPLAY ALL DICTIONARY KEYS students IF
+    
       ALL DICTIONARY KEYS subjects AVERAGE <= 1.5
+      
   CASE _
+  
     DISPLAY "INVALID"
+    
   REPEAT UNTIL USER EXITS PROGRAM
+  
 END
   
 ### Flowchart  
