@@ -113,6 +113,7 @@ Describe your program’s logic:
   
 ### Flowchart  
 Attach or draw a flowchart showing how the program will work.  
+![image alt](https://github.com/JanAPandes/Final-Project-CS2/blob/3ddfd717e7c982b51a678651c7f4d4e2c0607722/Project_Template_ComputerScience2-main/docs/flowchart_v1.0_group1_dahlia.png)
 
 ---
 
