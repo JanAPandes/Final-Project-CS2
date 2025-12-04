@@ -124,7 +124,7 @@ The problem directly affects how student grades are calculated, leading to error
     END
   
 ### Flowchart  
-![image alt](https://github.com/JanAPandes/Final-Project-CS2/blob/3ddfd717e7c982b51a678651c7f4d4e2c0607722/Project_Template_ComputerScience2-main/docs/flowchart_v1.0_group1_dahlia.png)
+![image alt](https://github.com/JanAPandes/Final-Project-CS2/blob/d92032000eaa2b7d3324b8e3cfca148941c61c82/Project_Template_ComputerScience2-main/docs/flowchart_v2.0_group1_dahlia.png)
 
 ---
 
