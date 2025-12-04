@@ -47,12 +47,25 @@ The problem directly affects how student grades are calculated, leading to error
     START
 
       LOAD JSON File
-  
+
+      DISPLAY:
+      
+        '''
+
+        [1] Compute the general average of one student.
+        [2] List the subjects where the student scored 2.5 or better.
+        [3] List the subjects where the student scored 2.75 or worse.  
+        [4] List the students who have a substandard general average or worse.
+        [5] List the students who have qualified for a Director's List in their general average.
+        [0] End
+
+        '''
+        
       INPUT x
   
-      MATCH x
+      MATCH x:
   
-        CASE 1
+        CASE 1:
   
           INPUT id
     
@@ -62,7 +75,7 @@ The problem directly affects how student grades are calculated, leading to error
     
           CALCULATE AND DISPLAY AVERAGE OF subjects IN id
     
-        CASE 2
+        CASE 2:
   
           INPUT id
     
@@ -72,7 +85,7 @@ The problem directly affects how student grades are calculated, leading to error
     
           DISPLAY ELEMENTS IN DICTIONARY KEY subjects <= 2.5
     
-        CASE 3
+        CASE 3:
   
           INPUT id
     
@@ -82,27 +95,27 @@ The problem directly affects how student grades are calculated, leading to error
     
           DISPLAY ELEMENTS IN DICTIONARY KEY subjects >= 2.75
     
-        CASE 4
+        CASE 4:
   
           CALCULATE AVERAGE OF subjects IN ALL DICTIONARIES
     
-          DISPLAY DICTIONARY KEYS students IF
+          DISPLAY DICTIONARY KEYS students IF:
     
             DICTIONARY KEYS subjects AVERAGE >= 2.75
       
-        CASE 5
+        CASE 5:
   
           CALCULATE AVERAGE OF subjects IN ALL DICTIONARIES
     
-          DISPLAY DICTIONARY KEYS students IF
+          DISPLAY DICTIONARY KEYS students IF:
     
             DICTIONARY KEYS subjects AVERAGE <= 1.5
       
-        CASE _
+        CASE _:
   
           DISPLAY "INVALID"
     
-        CASE 0
+        CASE 0:
 
           DISPLAY "Goodbye!"
         
