@@ -18,4 +18,4 @@ PANDES   - Contributed on the rest and finalization of the proposal, along with 
 
 ## Update
 ### What feature/s you implemented this third quarter
-This quarter, we mainly implemented the first feature. This features calculates the general average of one student. The program asks the user to input the id of the student, allowing it to start calculating the average. The general average is calculated and presented to the user. This code can be found in Google Colab.
+This quarter, we mainly implemented the first feature. This feature calculates the general average of one student. The program asks the user to input the ID of the student, allowing it to start calculating the average. The general average is calculated and presented to the user. This code can be found in the Google Colab notebook.
