@@ -10,9 +10,9 @@ CHUA     - Contributed to the objectives part of the proposal.
 
 GUY-AB   - Contributed to the planned inputs and outputs part of the proposal.   
 
-PALADO   - ???  
+PALADO   - Sent a code for feature implementation to the notebook owner.  
 
-PANDES   - Contributed on the rest and finalization of the proposal, along with creation of repositories, facilitating the group, creating the Google Colab notebook, Firebase database, and others.
+PANDES   - Contributed on the rest and finalization of the proposal, along with creation of repositories, facilitating the group, creating the Google Colab notebook, Firebase database, finalizing the code, and others.
 
 ---
 
